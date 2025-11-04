@@ -74,3 +74,11 @@ This code strictly adheres to a set of rules, ensuring the conversion logic is b
     bin(), hex(), oct(), format()
 
     int(string, base) (The two-argument version of int())
+
+# Example Run!
+
+![](images/image.png)
+
+# 🌲Decision Tree
+
+![](images/)
